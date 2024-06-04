@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Tai_Lieu_Hoc_Tap\\LTWNC\\WebBanHang\\WebBanHang.csproj": {}
+  },
+  "projects": {
+    "D:\\Tai_Lieu_Hoc_Tap\\LTWNC\\WebBanHang\\WebBanHang.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Tai_Lieu_Hoc_Tap\\LTWNC\\WebBanHang\\WebBanHang.csproj",
+        "projectName": "WebBanHang",
+        "projectPath": "D:\\Tai_Lieu_Hoc_Tap\\LTWNC\\WebBanHang\\WebBanHang.csproj",
+        "packagesPath": "C:\\Users\\HUY\\.nuget\\packages\\",
+        "outputPath": "D:\\Tai_Lieu_Hoc_Tap\\LTWNC\\WebBanHang\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HUY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "D:\\dk\\dotnet-sdk-6.0.422-win-x86\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
